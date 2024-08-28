@@ -1,0 +1,39 @@
+header{
+    background-color: red;
+    color: black;
+    padding: 20px;
+    height:20px;
+    width:100%;
+    position: fixed;
+}
+.image{
+    
+    position: absolute;
+    height: 200px;
+    top:300px;
+    left:35%;
+    border-radius:10px;
+    z-index: -1;
+
+}
+.leftimages{
+    position: absolute;
+    left:0%;
+    top: 100px;
+    z-index: -1;
+
+}
+.rightimages{
+    position: absolute;
+    right: 0%;
+    top: 100px;
+    z-index: -1;
+
+}
+
+     
+               
+    
+
+
+
